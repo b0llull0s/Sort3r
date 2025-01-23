@@ -9,11 +9,11 @@ sudo cp sort3r.sh /usr/bin/sort3r
 ```
 - Make it executable:
 ```
-chmod +x /usr/bin/sorter
+chmod +x /usr/bin/sort3r
 ```
 - And run it:
 ```
-sorter -i input_file.txt -o output_file.txt
+sort3r -i input_file.txt -o output_file.txt
 ```
 ## Contributing
 - Feel free to open issues or submit pull requests to improve the script.
