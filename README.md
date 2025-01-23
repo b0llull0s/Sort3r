@@ -5,7 +5,7 @@
 ## Usage
 - Copy the script to your `/usr/bin` folder:
 ```
-sudo cp sorter /usr/bin/
+sudo cp sorter.sh /usr/bin/sorter
 ```
 - Make it executable:
 ```
